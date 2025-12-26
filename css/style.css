@@ -527,4 +527,11 @@ main{width:100%;}
     .gallery-wrap li{
     width: 100%;
     }
+    #section3{
+    padding: 20px 0;
+    }
+    .filter-form .form-item label{
+        padding: 16px 16px;
+    }
+
 }
